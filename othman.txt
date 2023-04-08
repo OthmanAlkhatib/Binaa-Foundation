@@ -4,9 +4,6 @@ hi there from github
 hi there maaaaan
 hi there 2 maaaaaan
 hi there yooo
-<<<<<<< HEAD
 hi there 2222 yooooo
-=======
 hi there 21212 yooooo
->>>>>>> ec3d696ab632d4dc295c30a3662cc892e8cf2cc4
 new line from github
